@@ -1,2 +1,2 @@
 # button
-Click on the button to tigger a list
+Click on the button to trigger a list
